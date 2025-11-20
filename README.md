@@ -1,4 +1,4 @@
-# 📌 Simple React Todo App
+#  Simple React Todo App
 
 A clean and responsive **Todo List Application** built using **React + Vite**.  
 Users can **add tasks**, **mark them complete**, and **delete tasks** easily.  
@@ -6,18 +6,18 @@ UI is styled using **Tailwind CSS**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✨ Add new tasks  
-- ✔️ Mark tasks as completed  
-- 🗑 Delete tasks  
-- ⚡ Super-fast setup using Vite  
-- 🎨 Modern UI using Tailwind CSS  
-- 📱 Fully responsive design  
+-  Add new tasks  
+-  Mark tasks as completed  
+-  Delete tasks  
+-  Super-fast setup using Vite  
+-  Modern UI using Tailwind CSS  
+-  Fully responsive design  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React JS**
 - **Vite**
@@ -26,7 +26,7 @@ UI is styled using **Tailwind CSS**.
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 Follow these steps to run the project locally:
 
