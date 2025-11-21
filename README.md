@@ -1,31 +1,33 @@
-#  Simple React Todo App.
+# 📝 Simple React Todo App
 
-A clean and responsive **Todo List Application** built using **React **.  
-Users can **add tasks**, **mark them complete**, and **delete tasks** easily.  
-UI is styled using **Tailwind CSS**.
-
----
-
-##  Features
-
--  Add new tasks  
--  Mark tasks as completed  
--  Delete tasks  
--  Super-fast setup using Vite  
--  Modern UI using Tailwind CSS  
--  Fully responsive design  
+A clean and responsive **Todo List Application** built using **React JS** and **Tailwind CSS**.  
+Users can **add tasks**, **mark them completed**, and **delete tasks** easily.  
+UI is simple, modern, and beginner-friendly.
 
 ---
 
-##  Tech Stack
+## 🚀 Features
+
+- ➕ **Add new tasks**
+- ✔️ **Mark tasks as completed / uncompleted**
+- ❌ **Delete tasks**
+- ⚡ Built with **Vite** (super fast)
+- 🎨 UI built using **Tailwind CSS**
+- 📱 Fully responsive design
+- 🔥 Clean and reusable components
+
+---
+
+## 🛠️ Tech Stack
 
 - **React JS**
 - **Tailwind CSS**
+- **Vite**
 - **JavaScript (ES6+)**
 
 ---
 
-##  Installation & Setup
+## 📦 Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -33,11 +35,25 @@ Follow these steps to run the project locally:
 # Clone the repository
 git clone https://github.com/AdarshYadav-dev/simple-react-todo.git
 
-# Navigate into the project folder
+# Navigate into project folder
 cd simple-react-todo
 
 # Install dependencies
 npm install
 
-# Start development server
+# Start the development server
 npm run dev
+
+
+simple-react-todo/
+│
+├── src/
+│   ├── components/
+│   │   ├── Todo.jsx
+│   │   └── Todoitems.jsx
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+└── package.json
