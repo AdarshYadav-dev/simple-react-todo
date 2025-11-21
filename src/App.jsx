@@ -1,9 +1,9 @@
-import React, { useRef } from 'react'
+import React from 'react'
 import Todo from './components/Todo';
 
-const App = ()=>{
+const App = () => {
 
-  return(
+  return (
     <div className='bg-stone-900 grid py-4 min-h-screen'>
       <Todo />
     </div>
